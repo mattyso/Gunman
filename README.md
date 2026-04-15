@@ -1,6 +1,6 @@
 # NO MORE BUILDS ARE COMING TO GITHUB
 the builds currently active will remain as free demos
-all future builds will be on the steam deployment
+# all future builds will be on the steam deployment
 
 # Gunman
 a game about a guy with a gun. releases are in "tags" off to the right
